@@ -1,6 +1,6 @@
 # LEARN_C
 
-This repository contains some questions and their solutions which can help beginners to learn new concepts in C programming language.
+This repository contains some questions and their solutions. By solving these questions, beginners can learn new concepts in C programming language . 
 
 1. Download this repository.
 2. Go through the files and read the pdfs containing questions.
