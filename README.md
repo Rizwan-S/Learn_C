@@ -9,3 +9,10 @@ This repository contains some questions and their solutions. By solving these qu
 5. Don't directly look for the solutions!
 6. If you don't get the solution after trying hard, look up for the solution and then try again.
 7. All the best!
+
+
+# Contribute
+Contributions, issues and feature requests are welcome! Feel free to check [issues page](https://github.com/Rizwan-S/Learn_C/issues)
+
+# Show your support
+Give a ⭐️ if you find this repo useful!
